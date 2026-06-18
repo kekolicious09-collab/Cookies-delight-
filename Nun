@@ -1,0 +1,4 @@
+ name(kemi)
+age(14)
+print("what is your name")
+kemi
